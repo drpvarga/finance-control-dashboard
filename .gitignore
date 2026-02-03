@@ -1,0 +1,11 @@
+# --- Python ---
+venv/
+__pycache__/
+*.pyc
+
+# --- Excel temp / lock files ---
+~$*.xlsx
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
