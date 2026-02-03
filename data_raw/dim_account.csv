@@ -1,0 +1,14 @@
+account_id,account_name,pl_level_1,pl_level_2,pl_level_3,sort_pl1
+A410100,Product revenue,Revenue,Revenue Streams,Product revenue,1
+A410200,Service revenue,Revenue,Revenue Streams,Service revenue,1
+A410300,Subscription revenue,Revenue,Revenue Streams,Subscription revenue,1
+A510100,Materials,COGS,Direct Costs,Materials,2
+A510200,Freight,COGS,Direct Costs,Freight,2
+A510300,Manufacturing overhead,COGS,Direct Costs,Manufacturing overhead,2
+A610100,Salaries,OPEX,Operating Expenses,Salaries,3
+A610200,Rent,OPEX,Operating Expenses,Rent,3
+A610300,IT & Cloud,OPEX,Operating Expenses,IT & Cloud,3
+A610400,Travel,OPEX,Operating Expenses,Travel,3
+A610500,Professional services,OPEX,Operating Expenses,Professional services,3
+A610600,Office & supplies,OPEX,Operating Expenses,Office & supplies,3
+A610700,Training,OPEX,Operating Expenses,Training,3
